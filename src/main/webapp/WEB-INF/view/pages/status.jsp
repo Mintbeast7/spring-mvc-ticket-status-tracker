@@ -118,7 +118,7 @@
     </div>
 
     <div class="footer">
-        Support Management System • Spring MVC
+        Support Management System
     </div>
 </div>
 
